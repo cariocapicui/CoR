@@ -1,0 +1,2 @@
+1. A diferença é que no exemplo de Brizeno ele usa ENUM para Ordenar o template ou seja percorre toda a cadeia em ordem.
+2. A semelhança é que da mesma forma que o exemplo da imagem o exemplo de brizeno utiliza o método do próximo elemento da cadeia para percorrer o objeto.
